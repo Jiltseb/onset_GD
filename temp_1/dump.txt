@@ -1,0 +1,53 @@
+numCepstrum = 0 numFilters = 0
+numFilters = 0
+wavefile = 
+windowSize = 400
+resGdWindowSize = 64
+numCepstrum = 0
+deltaDifference = 1
+deltaDeltaDifference = 1
+seed = 13457
+fftSize = 0
+fftOrder = -2147483648
+preemphasis = 0.000000
+preemphasisDelay = 0
+numSamples = 0
+numFrames = 0
+samplingRate = 44100
+lpOrder = 10
+zeroOrder = 0
+seed = 13457
+warpConst = 0.000000
+trapRatio = 1.000000
+bwScale = 0.000000
+gamma = 0.100000
+gdPosScale = 1.000000
+gdNegScale = 1.000000
+gdSign = 1
+mgdNormalize = 1
+medianOrder = 5
+gdRemoveLPhase = 0
+removeMin = 0
+minFreq = 0.000000 maxFreq = 8000.000000
+varianceNormalize = 0
+varianceFloor = 0.000000
+probScaleFactor = 1.000000
+thresEnergy = 0.300000
+thresZero = 0.000000
+thresSpecFlatness = 0.000000
+percentFrames = 1
+winScaleFactor = 30.000000
+minPitch = 40 maxPitch = 160
+numFormants = 20
+numAntiFormants = 0
+perceptualFilterbank = 0
+useTrain = 0
+useLog = 0
+useMinGd = 1
+perceptNumCepstrum = 15
+tonicFrequency=0.000000
+centOrFreq=0
+chromaFB=0
+chromaOverlapFB = 0
+pitchSync = 0
+nfft = 65536 mfft = 16 winlen  848 samples 25459

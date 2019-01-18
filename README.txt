@@ -11,7 +11,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 
 You should have received a copy of the GNU General Public License. If not, see <http://www.gnu.org/licenses/>
 
-This folder contains the main matlab program onset_GD.m which calls the binary "WordSegmentWithSilenceRemoval" to perform GD-based smoothing, 
-the parameters of which can be adjusted in the configuration file: "fe-words.base_ref". The audio file should be placed inside the folder "test_here". 
-The placement of the file is essential. The binary WordSegmentWithSielnceRemoval and the script extrema.m must be in the same folder. This is the single resolution program, hence wsF is a parameter. The MLF output file (HTK format) is stored in this folder. Use mirex standards for the comparison with the ground truth.
+This folder contains the main matlab program onset_GD.m which calls the binary "WordSegmentWithSilenceRemoval" to perform GD-based smoothing, the parameters of which can be adjusted in the configuration file: "fe-words.base_ref". 
+The audio file should be placed inside the folder "test_here". The placement of the file is essential. 
+The binary WordSegmentWithSielnceRemoval and the script extrema.m must be in the same folder.
+This is the single resolution program, hence wsF is a parameter. 
+The MLF output file (HTK format) is stored in this folder. Use mirex standards for the comparison with the ground truth.
 
